@@ -1,0 +1,65 @@
+body{
+	margin-top: 2rem;
+	margin-left: 4rem;
+	margin-right: 4rem;
+	margin-bottom: 4rem;
+	background-color: #ECEFF1;
+	color: #37474F;
+
+}
+p {
+	margin-left: 6rem;
+	margin-right: 6rem;
+	font-size: 1.6rem;
+}
+
+li{
+	margin-left: 5rem;
+	margin-right: 5rem;
+	font-size: 1.6rem;
+
+}
+
+dl{
+	margin-left: 10%;
+	list-style: none;
+	
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#accordion{
+	margin-right: 10rem;
+	margin-left: 10rem;
+}
+
+.jumbotron{
+
+	background-color: #CFD8DC !important;
+}
+
+.subtitle {
+	font-size: 40pt;
+	padding-bottom: 20px;
+}
+
+.footer {
+	font-size: 15pt;
+	color: #78909C;
+
+}
